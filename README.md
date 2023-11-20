@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for show how to use Git and GitHub repository. Adding a line for rebashing ex.
+This is a simple website project for show how to use Git and GitHub repository. Adding a line for rebashing example. Now, more changes from the myfeature branch too.
 
 ## Introduction
 
