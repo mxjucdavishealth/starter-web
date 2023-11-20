@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is a simple website project for show how to use Git and GitHub repository. Adding a line for rebashing ex.
 
 ## Introduction
 
